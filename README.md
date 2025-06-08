@@ -23,4 +23,5 @@
 | ``&nbsp;&nbsp;[CharityTrends]([link](https://github.com/Flucoreo/CharityTrends))          | Visualize trends in Charity fundraising based on government datasets and AI search |
 
 
+## Stats on my GitHub
 ![Flucoreo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucoreo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)

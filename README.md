@@ -19,8 +19,8 @@
 ## projects
 | Name                                                                                    | Description                                                                        |
 |:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
-| &nbsp;&nbsp;[Taskii]([link](https://github.com/Flucoreo/Taskii))                        | A robust and efficient task management dashboard                                   |
-| &nbsp;&nbsp;[CharityTrends]([link](https://github.com/Flucoreo/CharityTrends))          | Visualize trends in Charity fundraising based on government datasets and AI search |
+| `📝` &nbsp;&nbsp;[Taskii]([link](https://github.com/Flucoreo/Taskii))                   | A robust and efficient task management dashboard                                   |
+| `📈` &nbsp;&nbsp;[CharityTrends]([link](https://github.com/Flucoreo/CharityTrends))     | Visualize trends in Charity fundraising based on government datasets and AI search |
 
 
 ## Stats on my GitHub

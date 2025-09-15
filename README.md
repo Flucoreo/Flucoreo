@@ -23,11 +23,13 @@
 | `📈` &nbsp;&nbsp;[CharityTrends]([link](https://github.com/Flucoreo/CharityTrends))     | Visualize trends in Charity fundraising based on government datasets and AI search |
 | `📊` &nbsp;&nbsp;[LLNL Data Science Challenge]([link](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4))     | Seeing the Unseen: Predicting Amodal Objects using MOVi-MC-AC |
 | `🌱` &nbsp;&nbsp;[MacroMaxer]([link](https://macromaxer.com))     | Ai powered nutrition analysis asistant platform |
+| `🌱` &nbsp;&nbsp;[planti](https://planti.com)     | Ai powered nutrition platform |
 
 
 ## Stats on my GitHub
 <!-- https://gh-stats-gen.vercel.app/ -->
 ![Flucoreo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucoreo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 
 

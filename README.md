@@ -13,8 +13,16 @@
 | Name                                                                                    | Description                                                                        |
 |:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
 | `📊` &nbsp;&nbsp;[LLNL Data Science Challenge](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Seeing the Unseen: Predicting Amodal Objects using MOVi-MC-AC |
-| `📈` &nbsp;&nbsp;[CharityTrends](https://github.com/Flucoreo/CharityTrends)     | Hackathon Project - Visualize trends in Charity fundraising based on government datasets and AI search |
+| `⛓️` &nbsp;&nbsp;[Rag with LangChain](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Implementing RAG with local modals and Lang Chain + pipeline Evaluation with RAGAS |
+| `📈` &nbsp;&nbsp;[CharityTrends](https://github.com/Flucoreo/CharityTrends)     | Hackathon Project - Visualize charity fundraising trends based on government data and AI search |
+| `📝` &nbsp;&nbsp;[Taskii](https://github.com/Flucoreo/Taskii)                   | A robust and efficient task management dashboard                                   |
 
+
+## Live projects I've worked on
+proprietery code, unfortunately
+| Name                                                                                    | Description                                                                        |
+|:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| `🌱` &nbsp;&nbsp;[MacroMaxer](https://macromaxer.com)     | Ai powered nutrition analysis asistant platform |
 
 <!--
 ## experience
@@ -25,19 +33,11 @@
 | [Lawrence Livermore National Laboratory](https://llnl.gow/)     | Data Science Challenge Intern | July 2025               |
 -->
 
-<!--
-## projects
-| Name                                                                                    | Description                                                                        |
-|:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
-| `📝` &nbsp;&nbsp;[Taskii](https://github.com/Flucoreo/Taskii)                   | A robust and efficient task management dashboard                                   |
-| `📈` &nbsp;&nbsp;[CharityTrends](https://github.com/Flucoreo/CharityTrends)     | Visualize trends in Charity fundraising based on government datasets and AI search |
-| `📊` &nbsp;&nbsp;[LLNL Data Science Challenge](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Seeing the Unseen: Predicting Amodal Objects using MOVi-MC-AC |
-| `🌱` &nbsp;&nbsp;[MacroMaxer](https://macromaxer.com)     | Ai powered nutrition analysis asistant platform |
--->
 
 <!-- ## Stats on my GitHub -->
 <!-- https://gh-stats-gen.vercel.app/ -->
 <!-- ![Flucoreo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucoreo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) -->
+
 
 
 

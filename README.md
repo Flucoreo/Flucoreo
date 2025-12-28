@@ -9,14 +9,23 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethflucas/)
 
+## Repos
+| Name                                                                                    | Description                                                                        |
+|:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| `📊` &nbsp;&nbsp;[LLNL Data Science Challenge](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Seeing the Unseen: Predicting Amodal Objects using MOVi-MC-AC |
+| `📈` &nbsp;&nbsp;[CharityTrends](https://github.com/Flucoreo/CharityTrends)  | Hackathon Project - Visualize trends in Charity fundraising based on government datasets and AI search |
+
+
+<!--
 ## experience
 | Organization                                                    | Role                          | Start – End Date        |
 |:----------------------------------------------------------------|:------------------------------|:-----------------------:|
 | [UC Merced](https://www.ucmerced.edu)                           | Student Developer             | November 2024 – Present |
 | [IoT4Ag](https://iot4ag-hackathon-2025.github.io/)              | Hackathon Winner              | March 2025              |
 | [Lawrence Livermore National Laboratory](https://llnl.gow/)     | Data Science Challenge Intern | July 2025               |
+-->
 
-
+<!--
 ## projects
 | Name                                                                                    | Description                                                                        |
 |:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
@@ -24,11 +33,12 @@
 | `📈` &nbsp;&nbsp;[CharityTrends](https://github.com/Flucoreo/CharityTrends)     | Visualize trends in Charity fundraising based on government datasets and AI search |
 | `📊` &nbsp;&nbsp;[LLNL Data Science Challenge](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Seeing the Unseen: Predicting Amodal Objects using MOVi-MC-AC |
 | `🌱` &nbsp;&nbsp;[MacroMaxer](https://macromaxer.com)     | Ai powered nutrition analysis asistant platform |
+-->
 
-
-## Stats on my GitHub
+<!-- ## Stats on my GitHub -->
 <!-- https://gh-stats-gen.vercel.app/ -->
-![Flucoreo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucoreo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<!-- ![Flucoreo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucoreo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) -->
+
 
 
 

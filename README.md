@@ -13,7 +13,7 @@
 | Name                                                                                    | Description                                                                        |
 |:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
 | `📊` &nbsp;&nbsp;[LLNL Data Science Challenge](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Seeing the Unseen: Predicting Amodal Objects using MOVi-MC-AC |
-| `📈` &nbsp;&nbsp;[CharityTrends](https://github.com/Flucoreo/CharityTrends)  | Hackathon Project - Visualize trends in Charity fundraising based on government datasets and AI search |
+| `📈` &nbsp;&nbsp;[CharityTrends](https://github.com/Flucoreo/CharityTrends)     | Hackathon Project - Visualize trends in Charity fundraising based on government datasets and AI search |
 
 
 <!--
@@ -38,6 +38,7 @@
 <!-- ## Stats on my GitHub -->
 <!-- https://gh-stats-gen.vercel.app/ -->
 <!-- ![Flucoreo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucoreo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) -->
+
 
 
 

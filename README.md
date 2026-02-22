@@ -14,6 +14,7 @@
 |:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
 | `📊` &nbsp;&nbsp;[LLNL Data Science Challenge](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Seeing the Unseen: Predicting Amodal Objects using MOVi-MC-AC |
 | `⛓️` &nbsp;&nbsp;[Rag with LangChain](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Implementing RAG with local modals and Lang Chain + pipeline Evaluation with RAGAS |
+| `🔭` &nbsp;&nbsp;[Kaggle Machine Learning Competition](https://github.com/Flucoreo/spaceship-titanic) | My KNN implementation of of the Space Titanic Competition |
 | `📈` &nbsp;&nbsp;[CharityTrends](https://github.com/Flucoreo/CharityTrends)     | Hackathon Project - Visualize charity fundraising trends based on government data and AI search |
 | `📝` &nbsp;&nbsp;[Taskii](https://github.com/Flucoreo/Taskii)                   | A robust and efficient task management dashboard                                   |
 
@@ -37,6 +38,7 @@ proprietery code, unfortunately
 <!-- ## Stats on my GitHub -->
 <!-- https://gh-stats-gen.vercel.app/ -->
 <!-- ![Flucoreo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucoreo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) -->
+
 
 
 

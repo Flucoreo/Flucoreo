@@ -12,6 +12,7 @@
 ## Repos
 | Name                                                                                    | Description                                                                        |
 |:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
+| `📊` &nbsp;&nbsp;[Real Estate Fraud Detection Platform (Irvine Hacks 2026)](https://github.com/sawyervalin/irvinehacks2026)     |  analyzing wire transfer detauls using multi-signal anomaly detection |
 | `📊` &nbsp;&nbsp;[LLNL Data Science Challenge](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Seeing the Unseen: Predicting Amodal Objects using MOVi-MC-AC |
 | `⛓️` &nbsp;&nbsp;[Rag with LangChain](https://github.com/Flucoreo/LLNL-DSC-2025-Team-4)     | Implementing RAG with local modals and Lang Chain + pipeline Evaluation with RAGAS |
 | `🔭` &nbsp;&nbsp;[Kaggle Machine Learning Competition](https://github.com/Flucoreo/spaceship-titanic) | My KNN implementation of of the Space Titanic Competition |
@@ -20,7 +21,6 @@
 
 
 ## Live projects I've worked on
-proprietery code, unfortunately
 | Name                                                                                    | Description                                                                        |
 |:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|
 | `🌱` &nbsp;&nbsp;[MacroMaxer](https://macromaxer.com)     | Ai powered nutrition analysis asistant platform |
@@ -38,6 +38,7 @@ proprietery code, unfortunately
 <!-- ## Stats on my GitHub -->
 <!-- https://gh-stats-gen.vercel.app/ -->
 <!-- ![Flucoreo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flucoreo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) -->
+
 
 
 
